@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using ExercicePokemon.Models
+@model List<Pokemon>
+@{   
+    Layout = "_Layout";
+}
+
+<h1 class="mb-5">Liste des pokemons</h1>
+
+
+@foreach(var pokemon in Model)
+{
+   <a href="/pokemon/consulter/@pokemon.Id">
+        <div class="pokemon @(pokemon.Legendaire ? "legendaire":"")">
+        <img src="/images/@(pokemon.Id).png" alt="Image du pokemon"> <br>
+           @pokemon.Nom    
+       </div>
+    </a>    
+}

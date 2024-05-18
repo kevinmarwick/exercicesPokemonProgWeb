@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\0.png",
+      "PackagePath": "staticwebassets\\images\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\100.png",
+      "PackagePath": "staticwebassets\\images\\100.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\101.png",
+      "PackagePath": "staticwebassets\\images\\101.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\102.png",
+      "PackagePath": "staticwebassets\\images\\102.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\103.png",
+      "PackagePath": "staticwebassets\\images\\103.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\104.png",
+      "PackagePath": "staticwebassets\\images\\104.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\105.png",
+      "PackagePath": "staticwebassets\\images\\105.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\106.png",
+      "PackagePath": "staticwebassets\\images\\106.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\107.png",
+      "PackagePath": "staticwebassets\\images\\107.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\108.png",
+      "PackagePath": "staticwebassets\\images\\108.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\109.png",
+      "PackagePath": "staticwebassets\\images\\109.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\11.png",
+      "PackagePath": "staticwebassets\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\110.png",
+      "PackagePath": "staticwebassets\\images\\110.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\111.png",
+      "PackagePath": "staticwebassets\\images\\111.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\112.png",
+      "PackagePath": "staticwebassets\\images\\112.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\113.png",
+      "PackagePath": "staticwebassets\\images\\113.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\114.png",
+      "PackagePath": "staticwebassets\\images\\114.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\115.png",
+      "PackagePath": "staticwebassets\\images\\115.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\116.png",
+      "PackagePath": "staticwebassets\\images\\116.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\117.png",
+      "PackagePath": "staticwebassets\\images\\117.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\118.png",
+      "PackagePath": "staticwebassets\\images\\118.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\119.png",
+      "PackagePath": "staticwebassets\\images\\119.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\120.png",
+      "PackagePath": "staticwebassets\\images\\120.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\121.png",
+      "PackagePath": "staticwebassets\\images\\121.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\122.png",
+      "PackagePath": "staticwebassets\\images\\122.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\123.png",
+      "PackagePath": "staticwebassets\\images\\123.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\124.png",
+      "PackagePath": "staticwebassets\\images\\124.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\125.png",
+      "PackagePath": "staticwebassets\\images\\125.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\126.png",
+      "PackagePath": "staticwebassets\\images\\126.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\127.png",
+      "PackagePath": "staticwebassets\\images\\127.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\128.png",
+      "PackagePath": "staticwebassets\\images\\128.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\129.png",
+      "PackagePath": "staticwebassets\\images\\129.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\130.png",
+      "PackagePath": "staticwebassets\\images\\130.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\131.png",
+      "PackagePath": "staticwebassets\\images\\131.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\132.png",
+      "PackagePath": "staticwebassets\\images\\132.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\133.png",
+      "PackagePath": "staticwebassets\\images\\133.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\134.png",
+      "PackagePath": "staticwebassets\\images\\134.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\135.png",
+      "PackagePath": "staticwebassets\\images\\135.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\136.png",
+      "PackagePath": "staticwebassets\\images\\136.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\137.png",
+      "PackagePath": "staticwebassets\\images\\137.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\138.png",
+      "PackagePath": "staticwebassets\\images\\138.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\139.png",
+      "PackagePath": "staticwebassets\\images\\139.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\14.png",
+      "PackagePath": "staticwebassets\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\140.png",
+      "PackagePath": "staticwebassets\\images\\140.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\141.png",
+      "PackagePath": "staticwebassets\\images\\141.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\142.png",
+      "PackagePath": "staticwebassets\\images\\142.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\143.png",
+      "PackagePath": "staticwebassets\\images\\143.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\144.png",
+      "PackagePath": "staticwebassets\\images\\144.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\145.png",
+      "PackagePath": "staticwebassets\\images\\145.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\146.png",
+      "PackagePath": "staticwebassets\\images\\146.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\147.png",
+      "PackagePath": "staticwebassets\\images\\147.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\148.png",
+      "PackagePath": "staticwebassets\\images\\148.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\149.png",
+      "PackagePath": "staticwebassets\\images\\149.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\15.png",
+      "PackagePath": "staticwebassets\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\150.png",
+      "PackagePath": "staticwebassets\\images\\150.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\16.png",
+      "PackagePath": "staticwebassets\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\17.png",
+      "PackagePath": "staticwebassets\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\18.png",
+      "PackagePath": "staticwebassets\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\19.png",
+      "PackagePath": "staticwebassets\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\20.png",
+      "PackagePath": "staticwebassets\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\21.png",
+      "PackagePath": "staticwebassets\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\22.png",
+      "PackagePath": "staticwebassets\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\23.png",
+      "PackagePath": "staticwebassets\\images\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\24.png",
+      "PackagePath": "staticwebassets\\images\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\25.png",
+      "PackagePath": "staticwebassets\\images\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\26.png",
+      "PackagePath": "staticwebassets\\images\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\27.png",
+      "PackagePath": "staticwebassets\\images\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\28.png",
+      "PackagePath": "staticwebassets\\images\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\29.png",
+      "PackagePath": "staticwebassets\\images\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\30.png",
+      "PackagePath": "staticwebassets\\images\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\31.png",
+      "PackagePath": "staticwebassets\\images\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\32.png",
+      "PackagePath": "staticwebassets\\images\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\33.png",
+      "PackagePath": "staticwebassets\\images\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\34.png",
+      "PackagePath": "staticwebassets\\images\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\35.png",
+      "PackagePath": "staticwebassets\\images\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\36.png",
+      "PackagePath": "staticwebassets\\images\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\37.png",
+      "PackagePath": "staticwebassets\\images\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\38.png",
+      "PackagePath": "staticwebassets\\images\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\39.png",
+      "PackagePath": "staticwebassets\\images\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\40.png",
+      "PackagePath": "staticwebassets\\images\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\41.png",
+      "PackagePath": "staticwebassets\\images\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\42.png",
+      "PackagePath": "staticwebassets\\images\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\43.png",
+      "PackagePath": "staticwebassets\\images\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\44.png",
+      "PackagePath": "staticwebassets\\images\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\45.png",
+      "PackagePath": "staticwebassets\\images\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\46.png",
+      "PackagePath": "staticwebassets\\images\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\47.png",
+      "PackagePath": "staticwebassets\\images\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\48.png",
+      "PackagePath": "staticwebassets\\images\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\49.png",
+      "PackagePath": "staticwebassets\\images\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\50.png",
+      "PackagePath": "staticwebassets\\images\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\51.png",
+      "PackagePath": "staticwebassets\\images\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\52.png",
+      "PackagePath": "staticwebassets\\images\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\53.png",
+      "PackagePath": "staticwebassets\\images\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\54.png",
+      "PackagePath": "staticwebassets\\images\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\55.png",
+      "PackagePath": "staticwebassets\\images\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\56.png",
+      "PackagePath": "staticwebassets\\images\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\57.png",
+      "PackagePath": "staticwebassets\\images\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\58.png",
+      "PackagePath": "staticwebassets\\images\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\59.png",
+      "PackagePath": "staticwebassets\\images\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\60.png",
+      "PackagePath": "staticwebassets\\images\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\61.png",
+      "PackagePath": "staticwebassets\\images\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\62.png",
+      "PackagePath": "staticwebassets\\images\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\63.png",
+      "PackagePath": "staticwebassets\\images\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\64.png",
+      "PackagePath": "staticwebassets\\images\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\65.png",
+      "PackagePath": "staticwebassets\\images\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\66.png",
+      "PackagePath": "staticwebassets\\images\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\67.png",
+      "PackagePath": "staticwebassets\\images\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\68.png",
+      "PackagePath": "staticwebassets\\images\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\69.png",
+      "PackagePath": "staticwebassets\\images\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\70.png",
+      "PackagePath": "staticwebassets\\images\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\71.png",
+      "PackagePath": "staticwebassets\\images\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\72.png",
+      "PackagePath": "staticwebassets\\images\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\73.png",
+      "PackagePath": "staticwebassets\\images\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\74.png",
+      "PackagePath": "staticwebassets\\images\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\75.png",
+      "PackagePath": "staticwebassets\\images\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\76.png",
+      "PackagePath": "staticwebassets\\images\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\77.png",
+      "PackagePath": "staticwebassets\\images\\77.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\78.png",
+      "PackagePath": "staticwebassets\\images\\78.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\79.png",
+      "PackagePath": "staticwebassets\\images\\79.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\80.png",
+      "PackagePath": "staticwebassets\\images\\80.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\81.png",
+      "PackagePath": "staticwebassets\\images\\81.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\82.png",
+      "PackagePath": "staticwebassets\\images\\82.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\83.png",
+      "PackagePath": "staticwebassets\\images\\83.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\84.png",
+      "PackagePath": "staticwebassets\\images\\84.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\85.png",
+      "PackagePath": "staticwebassets\\images\\85.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\86.png",
+      "PackagePath": "staticwebassets\\images\\86.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\87.png",
+      "PackagePath": "staticwebassets\\images\\87.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\88.png",
+      "PackagePath": "staticwebassets\\images\\88.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\89.png",
+      "PackagePath": "staticwebassets\\images\\89.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\90.png",
+      "PackagePath": "staticwebassets\\images\\90.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\91.png",
+      "PackagePath": "staticwebassets\\images\\91.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\92.png",
+      "PackagePath": "staticwebassets\\images\\92.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\93.png",
+      "PackagePath": "staticwebassets\\images\\93.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\94.png",
+      "PackagePath": "staticwebassets\\images\\94.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\95.png",
+      "PackagePath": "staticwebassets\\images\\95.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\96.png",
+      "PackagePath": "staticwebassets\\images\\96.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\97.png",
+      "PackagePath": "staticwebassets\\images\\97.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\98.png",
+      "PackagePath": "staticwebassets\\images\\98.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\99.png",
+      "PackagePath": "staticwebassets\\images\\99.png"
+    },
+    {
+      "Id": "C:\\Users\\6221324\\source\\repos\\ExercicePokemon\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExercicePokemon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExercicePokemon.props",
+      "PackagePath": "build\\ExercicePokemon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExercicePokemon.props",
+      "PackagePath": "buildMultiTargeting\\ExercicePokemon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExercicePokemon.props",
+      "PackagePath": "buildTransitive\\ExercicePokemon.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
